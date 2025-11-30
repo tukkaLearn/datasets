@@ -1,0 +1,9 @@
+date,country,category,product,revenue,units,price
+2025-11-01,USA,Electronics,iPhone 16,1299000,1000,1299
+2025-11-01,USA,Fashion,Sneakers,240000,2000,120
+2025-11-01,India,Electronics,Redmi Note,890000,8000,111.25
+2025-11-02,USA,Electronics,MacBook Pro,4798000,2000,2399
+2025-11-02,Germany,Fashion,Jacket,156000,1200,130
+2025-11-15,USA,Electronics,AirPods,747000,3000,249
+2025-11-28,USA,Electronics,iPhone 16,2598000,2000,1299
+2025-11-30,India,Fashion,T-Shirt,299900,10000,29.99

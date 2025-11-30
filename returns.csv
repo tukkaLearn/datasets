@@ -1,0 +1,3 @@
+order_id,return_date,reason,refund_amount
+ORD1001,2025-11-10,Defective,1299.0
+ORD1005,2025-11-12,Wrong Item,450.0

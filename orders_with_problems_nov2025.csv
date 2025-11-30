@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_category,price,quantity,discount,status,country,email,delivery_date
+ORD001,CUST1001,2025-11-01,Electronics,1299,1,0.1,Delivered,USA,john@gmail.com,2025-11-05
+ORD002,CUST1002,2025-11-01,,249,2,,Pending,Canada,,2025-11-08
+ORD002,CUST1002,2025-11-01,Fashion,249,2,0.15,Pending,Canada,jane@yahoo.com,2025-11-08
+ORD003,CUST1001,2025-11-02,Electronics,1199,1,0,Cancelled,US,,2025-11-03
+ORD004,CUST1004,2025-11-03,Fashion,49.99,5,0.2,Delivered,U.S.,,2025-11-07
+ORD005,CUST1005,2025-11-04,Unknown,89.99,1,,Shipped,India,mike@xyz.com,
+ORD006,CUST1001,2025-11-05,Electronics,1299,1,0.1,Delivered,USA,john@gmail.com,
+ORD007,CUST1007,2025-11-05,Fashion,,3,0.3,Pending,Australia,,
+ORD008,CUST1008,2025-11-06,Home,150,2,,Delivered,UK,tom@outlook.com,2025-11-10
+ORD009,CUST1008,2025-11-06,Home,150,2,0.1,Delivered,UK,tom@outlook.com,2025-11-10

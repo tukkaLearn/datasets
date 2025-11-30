@@ -1,0 +1,5 @@
+order_id,customer_id,sku,order_date,total_amount,status
+ORD1001,CUST901,IPH16,2025-11-01,1299.0,Delivered
+ORD1002,CUST902,AIRP2,2025-11-02,498.0,Pending
+ORD1003,CUST901,MAC15,2025-11-15,2399.0,Delivered
+ORD1004,CUST999,XYZ99,2025-11-20,599.0,Shipped

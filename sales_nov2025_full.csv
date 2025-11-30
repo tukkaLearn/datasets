@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product_name,category,price,quantity,total_amount,discount,country,status
+ORD1001,CUST901,2025-11-01,iPhone 16 Pro,Electronics,1299,1,1299.0,0.10,USA,Delivered
+ORD1002,CUST902,2025-11-02,AirPods,Electronics,249,2,498.0,0.00,Canada,Pending
+ORD1003,CUST901,2025-11-15,MacBook Pro,Electronics,2399,1,2159.1,0.10,USA,Delivered
+ORD1004,CUST215,2025-11-28,Sneakers,Fashion,120,5,600.0,0.20,India,Shipped
+ORD1005,CUST440,2025-11-30,Kindle,Electronics,139,1,139.0,0.00,Germany,Cancelled
+ORD1006,CUST901,2025-11-20,T-Shirt,Fashion,29.99,10,299.9,0.30,USA,Delivered
+ORD1007,CUST555,2025-11-25,PS5,Gaming,499,1,499.0,0.00,Australia,Delivered
+ORD1008,CUST901,2025-11-29,iPad Pro,Electronics,1099,1,989.1,0.10,USA,Delivered

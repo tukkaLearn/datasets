@@ -1,0 +1,6 @@
+customer_id,email,age,country_code,total_spent,order_count,last_order_date,avg_rating,cancelled_count
+CUST901,john@gmail.com,34,US,8497.3,28,2025-11-15,4.8,2
+CUST902,raj@india.co,28,IN,1234.5,12,2025-10-20,4.2,5
+CUST903,sarah@uk.com,45,UK,15670.0,42,2025-11-28,4.9,1
+CUST904,mike@gmail.com,22,US,456.8,8,2025-08-10,3.9,3
+CUST905,lisa@yahoo.com,51,CA,2890.0,15,2025-11-01,4.7,0

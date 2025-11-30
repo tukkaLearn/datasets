@@ -1,0 +1,4 @@
+customer_id,name,email,signup_date,country
+CUST901,John Doe,john@gmail.com,2023-05-12,USA
+CUST902,Jane Smith,jane@yahoo.com,2024-01-30,Canada
+CUST903,Alex Brown,alex@outlook.com,2025-06-10,UK

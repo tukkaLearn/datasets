@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product_name,category,price,quantity,status,country,email,delivery_date,total_amount,discount
+ORD1001,CUST901,2025-11-01,iPhone 16 Pro,Electronics,1299,1,Delivered,USA,john@gmail.com,2025-11-05,1299.0,0.1
+ORD1002,CUST902,2025-11-02,AirPods Pro,Electronics,249,2,Pending,Canada,,2025-11-10,498.0,0.0
+ORD1003,CUST901,2025-11-15,MacBook Pro,Electronics,2399,1,Delivered,USA,john@gmail.com,2025-11-18,2159.1,0.1
+ORD1004,CUST215,2025-11-28,Sneakers,Fashion,120,5,Shipped,India,raj@xyz.com,2025-12-05,600.0,0.2
+ORD1005,CUST440,2025-11-30,Kindle,Electronics,139,1,Cancelled,Germany,,2025-12-02,139.0,0.0
+ORD1006,CUST901,2025-11-20,T-Shirt,Fashion,29.99,10,Delivered,USA,john@gmail.com,2025-11-25,299.9,0.3
+ORD1007,CUST555,2025-11-25,PS5,Gaming,499,1,Delivered,Australia,tom@au.com,2025-12-01,499.0,0.0
+ORD1008,CUST666,2025-11-29,iPad Pro,Electronics,1099,1,Delivered,UK,sarah@uk.co,2025-12-03,989.1,0.1
