@@ -2,7 +2,7 @@ order_id,customer_id,order_date,product_name,category,price,quantity,discount,pa
 ORD1001,CUST_901,2025-11-01,iPhone 16 Pro,Electronics,1299,1,0.1,Credit Card,Delivered,john.doe@gmail.com,USA,2023-05-12
 ORD1002,cust_902,01/11/2025,AirPods Pro 2,electronics,249,2,,PayPal,Pending,,Canada,
 ORD1003,CUST_903,Nov 02 2025,Samsung Galaxy S25,Electronics,1199,1,0,credit card,Cancelled,alice_23@yahoo.com,UK,2024-01-30
-ORD1004,CUST_901,2025-11-03,MacBook Air M3,Electronics,$1,099,1,0.15,Apple Pay,Delivered,john.doe@gmail.com,USA,2023-05-12
+ORD1004,CUST_901,2025-11-03,MacBook Air M3,Electronics,$1099,1,0.15,Apple Pay,Delivered,john.doe@gmail.com,USA,2023-05-12
 ORD1005,CUST_905,2025-11-03,T-Shirt Oversized,Fashion,29.99,5,,Cash on Delivery,Delivered,bob.builder@hotmail.com,India,2025-10-28
 ORD1006,CUST_906,2025-11-04,Wireless Charger,Accessories,19.99,3,0.2,Credit Card,Delivered,,Germany,2024-08-15
 ORD1007,CUST_907,03-11-2025,PlayStation 6,Gaming,499,1,0.05,PayPal,Shipped, gamer123@outlook.com ,Australia,2025-01-10
